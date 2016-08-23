@@ -1,0 +1,12 @@
+---
+layout: post
+title: Now
+date: 2015-11-20 13:39:45.000000000 -05:00
+---
+* Taking a well deserved vacations in Colombia!
+* Reading Laszlo Bock's "Work Rules!"
+* ~~'Calculus 1' refreshing at Coursera.~~ **[Completed]** 
+* ~~ Building a new version for '**Rent The Runway**' App.~~
+* ~~ Coding my first framework in **Swift**.~~ [ON HOLD]
+* ~~Playing '**Satellite Reign**' on Steam. ~~
+* ~~Thinking in "**Turkey2Turkey**" idea.~~

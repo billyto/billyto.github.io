@@ -1,0 +1,45 @@
+---
+layout: post
+title: '2014: A reading report'
+date: 2015-04-01 22:33:20.000000000 -04:00
+---
+
+##Technical Books##
+I'm not sure how long technical books will be around in the age of online tutorials and stackoverflow, but I still enjoy having a book next to the keybaord while learning or rediscovering some piece of software. This year only three books were able cut the bar as completed.
+
+* [The Linux Command Line: A Complete Introduction](http://amzn.to/1qNoFbs) by _William E. Shotts Jr._ Revisiting the basics is never a bad idea.
+* [iOS Drawing: Practical UIKit Solutions](http://amzn.to/1zaz02S) by _Erica Sadun_. 
+* [iOS Programming: The Big Nerd Ranch Guide (4th Edition)](http://amzn.to/1uExkbK) by _Joe Conway and Aaron Hillegass_. If there is a book that compiles iOS development, this is the one.
+
+
+##Warhammer40k Series##
+Keeping up with the "Horus Heresy" saga, while my MTA daily commute.
+
+* [Mark of Calth](http://amzn.to/16lTPOr) by _Laurie Goulding_.
+* [Ravenlord](http://amzn.to/1yNRvGs) by _Gav Thorpe_.
+* [Macragge's Honour](http://amzn.to/1zayPog) by _Dan Abnett and illustrated by Neil Roberts_.
+* [The Unremembered Empire](http://amzn.to/1zaxJsI) by _Dan Abnett_.
+* [Vulkan Lives](http://amzn.to/1zavFRq) by _Nick Kayme_
+* [Scars](http://amzn.to/1zavWDX) by _Chris Wraight_.
+
+##Invited Author##
+Last year was the time of _Isaac Asimov_, this year I pick **Philip K Dick**.
+
+* [Do Androids Dream of Electric Sheep](http://amzn.to/1qNlQXV) by _Philip K Dick_.
+* [The Crack in space](http://amzn.to/13n4cA5) by _Philip K Dick_.
+* [The Man in The High Castle](http://amzn.to/16lSZ4f) by _Philip K Dick_.
+
+##General reading##
+* [How to Fail at Almost Everything and Still Win Big](http://amzn.to/1zawLg3) by _Scott Adams_. Don't take it as a self-help book! 
+* [Small is Beautiful](http://amzn.to/1wQ2Ric) by _E.F. Schumacher_. A budhistic critique to infinite economic growth and mega corporations.
+* [Nicely Said](http://amzn.to/1uHJqSe) by _Nicole Fenton and Kate Kiefer Lee_. 
+* [Ready Player One](http://amzn.to/1GD14MP) - _Ernest Cline_. If you are children of the 80's, you owe yourself to read this book.
+
+##Queued##
+* [Gödel, Escher, Bach: An Eternal Golden Braid](http://amzn.to/1zaxBt7) by _Douglas R. Hofstadter_. Heavy book over here, I have the intention to read it thouthfully and that will take some time, I'm certating this book will keep showing up for the coming years.
+
+##Tsundoku##
+* [Structure and Interpretation of Computer Programs](http://amzn.to/12NSL3v) by _Harold Abelson_.
+* [Code Craft](http://amzn.to/1GD3Oto) by _Pete Goodliffe_.
+* [The Art of Assembly Language](http://amzn.to/133vuKY) by _Randall Hyde_.
+* [Write Great Code](http://amzn.to/133vJWi) _Randall Hyde_.

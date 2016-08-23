@@ -1,0 +1,18 @@
+---
+layout: post
+title: Cupcade
+---
+"Brinquitos"
+There was a place back in Medellin, where you could rent a trampolin, play video games in beautiful arcade machines and have an ice cream, It was called "Brinquitos" and was located close to the 70 Avenue, one of the icons of my city back in the 80's. 
+
+Since I was a kid, i was always fascniated with arcades, I dreamt to have one or five at home, and spend days breaking high-scores. Sadly, owning an aracade was a impossible goal even for adults with jobs and money.
+
+"Nintendo"
+Years later, we had access to some imported Nintendo systems, and the arcades move to a second place, I just had to visit a good friend that owned one and play for hours without paying and sitting in a comftable sofa, instead of standing up. 
+
+Almost 25 years later, people still play the oldies from nintendo and the arcades, now when Playstation and Xbox have graphics that are close to reality, even now, the old games still have space.
+
+"Cupcade"
+Here is my customized cupcade, a GAMERA (Game ROM Aggregator) based on a raspberry pi. 
+
+
