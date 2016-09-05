@@ -1,6 +1,6 @@
 ---
 layout: post
-title: xCode Search
+title: Xcode Search
 date: 2015-04-01 22:32:20.000000000 -04:00
 ---
 ###Navigator search
