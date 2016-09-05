@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TIL: Swift highlight in Vim"
+title:  "TIL: Swift syntax highlighting in Vim"
 date:   2016-09-05 09:45:08 -0400
 categories: jekyll update
 ---
